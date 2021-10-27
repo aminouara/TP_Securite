@@ -4,6 +4,9 @@ Création d'un formulaire sécurisé
  HTML, CSS ,PHP 
  # Une base de données :
  SQL (mariaDB)
+ # Sécurité 
+ Variable POST 
+ Fonction HTMLSPECIALCHARS 
  # Logiciel :
  Xampp 
  # Exécuter le code :
